@@ -1,0 +1,44 @@
+铁三角（规模、时间和资源的限制）并不适用于软件开发
+
+当我们开始偷工减料并仓促完成，就会开始犯小错误，然后堆积成大错误，然后花更多的时间（和开支）来查找并修复这些错误。
+ 
+The Iron Triangle Does Not Apply to Software Development 
+https://dzone.com/articles/the-iron-triangle-does-not-apply-to-software-devel
+
+by David Bernstein · May. 06, 16 · Agile Zone 
+翻译 KumaT  2016.5.18 （如有纰漏恳谢指正）（翻译后的顺序对比原文做了微调。）
+ 
+There are three main constraints in manufacturing that are sometimes referred to as the “iron triangle.” These are scope, time, and resources. 
+生产中的三个主要因素（又称“铁三角”）：规模、时间和资源。
+Scope refers to the size of the project or the amount of work to be done.Time refers to when the project will be finished or how long it will take.The “resources” for developing software are people. 
+规模是指项目的大小或要做的工作量。时间是指项目完成期限或工作将耗费的时长。“资源”在软件开发中指的就是人。
+In manufacturing they say, “Pick two of these three things to flex, but one must remain fixed.”
+在生产中常常是让其中的两个因素有弹性，但另一个因素必须固定不变。
+But this model does not apply to software development.
+然而这种模式并不适用于软件开发。
+
+And because developing software requires a great deal of communication and coordination among people, when we add more people to a project it almost always has the short-term effect of slowing the project down. 
+由于开发软件需要大量的沟通和协调，当我们为项目加更多人时几乎总会使开发效率在短期内下降。
+Assembling software is not like assembling a car. In software development, resources are generally fixed because adding more people to a project doesn’t make it go faster.
+组装软件不像组装一台车。在软件开发中，资源一般情况下是固定的，因为添加更多的人并不能使开发进展得更快。
+On a Waterfall project, scope and time are also fixed, which often creates a nearly impossible situation.
+在瀑布流项目上，规模和时间也被限制往往会造成一种不切实际的情况。
+ 
+If scope, time, and resources are all fixed then what’s left to flex? 
+如果规模、时间和资源全都限制了，那还剩下什么弹性呢？
+Developers know the answer to this question because they often find themselves in this situation. 
+开发者知道这个问题的答案，因为他们自己就常常陷入这种情况中。
+When all three sides of the iron triangle are fixed the only thing that can flex is the quality of their own work — and this is the one thing that developers must not compromise on.
+当铁三角中的三个角都被固定时，唯一能牺牲的就是他们的工作质量—而这件事是开发者们绝对不应该妥协的。
+ 
+As we start cutting corners and rushing we start making little mistakes that cluster into big mistakes that cost considerable time (and therefore money) to find and fix. 
+当我们开始偷工减料并仓促完成，就会开始犯小错误，然后堆积成大错误，然后花更多的时间（和开支）来查找并修复这些错误。
+Teams very quickly get on a downward spiral that puts them in a reactive rather than proactive development environment.
+团队很快进入一个恶性循环，使得他们置身于一个被动而非主动的开发环境中。
+A real and sincere effort toward quality software has been the hallmark of every highly productive team I’ve ever seen.
+为高质量软件切实而纯粹地努力是我所见的每一个高效团队共有的特性。
+ 
+原文地址
+The Iron Triangle Does Not Apply to Software Development 
+https://dzone.com/articles/the-iron-triangle-does-not-apply-to-software-devel
+by David Bernstein · May. 06, 16 · Agile Zone 翻译 KumaT  2016.5.18（如有纰漏恳谢指正）
